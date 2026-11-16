@@ -1,0 +1,6 @@
+{
+  "name": "Chipor Tasma — Interaktiv Adabiy Loyiha va Testlar",
+  "description": "Ser Artur Konan Doylning 'Chipor tasma' hikoyasi bo'yicha zamonaviy adabiy tahlil, 20 va 25 talik interaktiv testlar hamda muallif ensiklopediyasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
